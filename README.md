@@ -1,2 +1,2 @@
 #  sintaxe básica em JavaScript
-Basic concepts for learning how to program in javascritpt
+Conceitos básicos para aprender a programar utilizando Javascript.
