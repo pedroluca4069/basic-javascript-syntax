@@ -1,2 +1,2 @@
 #  sintaxe básica em JavaScript
-Conceitos básicos para aprender a programar utilizando Javascript.
+Conceitos básicos para aprender a programar utilizando javascript.
